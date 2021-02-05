@@ -9,4 +9,4 @@ The assignment was to increase screen readibility and search engine optimization
 Accessibility ensures that people with dissabilites have access navigating the site, for example with semantic HTML tags. 
 Refactoring and documenting the CSS code makes it more efficient, maintainable and makes the QA and debugging process much easier.  
 
-The code is now more accessible for users with disabilities, more search engine optimized, and the CSS code is now more readable and maintainable. 
+The site is now more accessible for users with disabilities, more search engine optimized, and the CSS code is now more readable and maintainable. 
